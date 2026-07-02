@@ -1,4 +1,4 @@
-# 🎮 HTML5 Games Collection
+# 🎮 Coleção de Jogos HTML5
 
 Uma coleção de jogos feitos em **HTML5**, prontos para rodar **diretamente no navegador**, sem necessidade de instalação de Pacotes, so baixar e abrir diretamente no google. 🚀
 
