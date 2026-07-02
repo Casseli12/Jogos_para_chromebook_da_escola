@@ -9,3 +9,5 @@ Uma coleção de jogos feitos em **HTML5**, prontos para rodar **diretamente no 
 * ⚡ Início praticamente instantâneo
 * 📱 Compatíveis somente com computador
 Aproveite a coleção e divirta-se! 🎉
+
+# 👾 Jogos
